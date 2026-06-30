@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" fill="none" role="img" aria-label="Atlas AI roadmap">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="960" y2="420">
+      <stop offset="0%" stop-color="#111111"/>
+      <stop offset="100%" stop-color="#0D0D0D"/>
+    </linearGradient>
+    <linearGradient id="progress" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0066FF"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="960" height="420" rx="16" fill="url(#cardBg)" stroke="#262626" stroke-width="1"/>
+
+  <text x="40" y="48" fill="#71717A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="600" letter-spacing="0.18em">CURRENT MISSION</text>
+  <text x="40" y="88" fill="#FAFAFA" font-family="ui-sans-serif, system-ui, sans-serif" font-size="28" font-weight="600" letter-spacing="-0.02em">Atlas AI - Road to Launch</text>
+  <text x="40" y="118" fill="#A1A1AA" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">Intelligent automation platform for teams that ship.</text>
+
+  <rect x="820" y="34" width="100" height="28" rx="14" fill="#161616" stroke="#30363D" stroke-width="1"/>
+  <text x="870" y="53" text-anchor="middle" fill="#0066FF" font-family="ui-monospace, monospace" font-size="12" font-weight="600">v0.8.0</text>
+
+  <text x="40" y="168" fill="#D4D4D8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="500">Launch Progress</text>
+  <text x="920" y="168" text-anchor="end" fill="#0066FF" font-family="ui-monospace, monospace" font-size="13" font-weight="600">68%</text>
+  <rect x="40" y="182" width="880" height="6" rx="3" fill="#1F1F1F"/>
+  <rect x="40" y="182" width="598" height="6" rx="3" fill="url(#progress)"/>
+
+  <rect x="40" y="214" width="200" height="88" rx="12" fill="#0A0A0A" stroke="#262626" stroke-width="1"/>
+  <text x="56" y="244" fill="#71717A" font-family="ui-sans-serif, sans-serif" font-size="11" letter-spacing="0.08em">USERS</text>
+  <text x="56" y="278" fill="#FAFAFA" font-family="ui-sans-serif, sans-serif" font-size="26" font-weight="600">240</text>
+  <text x="56" y="296" fill="#52525B" font-family="ui-sans-serif, sans-serif" font-size="11">Goal: 1,000</text>
+
+  <rect x="260" y="214" width="200" height="88" rx="12" fill="#0A0A0A" stroke="#262626" stroke-width="1"/>
+  <text x="276" y="244" fill="#71717A" font-family="ui-sans-serif, sans-serif" font-size="11" letter-spacing="0.08em">MRR GOAL</text>
+  <text x="276" y="278" fill="#FAFAFA" font-family="ui-sans-serif, sans-serif" font-size="26" font-weight="600">$10K</text>
+  <text x="276" y="296" fill="#52525B" font-family="ui-sans-serif, sans-serif" font-size="11">Current: $1.2K</text>
+
+  <rect x="480" y="214" width="200" height="88" rx="12" fill="#0A0A0A" stroke="#262626" stroke-width="1"/>
+  <text x="496" y="244" fill="#71717A" font-family="ui-sans-serif, sans-serif" font-size="11" letter-spacing="0.08em">VERSION</text>
+  <text x="496" y="278" fill="#FAFAFA" font-family="ui-sans-serif, sans-serif" font-size="26" font-weight="600">0.8</text>
+  <text x="496" y="296" fill="#52525B" font-family="ui-sans-serif, sans-serif" font-size="11">Beta / Private</text>
+
+  <rect x="700" y="214" width="220" height="88" rx="12" fill="#0A0A0A" stroke="#262626" stroke-width="1"/>
+  <text x="716" y="244" fill="#71717A" font-family="ui-sans-serif, sans-serif" font-size="11" letter-spacing="0.08em">TARGET LAUNCH</text>
+  <text x="716" y="278" fill="#FAFAFA" font-family="ui-sans-serif, sans-serif" font-size="26" font-weight="600">Q3 2026</text>
+  <text x="716" y="296" fill="#52525B" font-family="ui-sans-serif, sans-serif" font-size="11">Public release</text>
+
+  <text x="40" y="348" fill="#71717A" font-family="ui-sans-serif, sans-serif" font-size="11" font-weight="600" letter-spacing="0.14em">UPCOMING MILESTONES</text>
+
+  <circle cx="56" cy="378" r="5" fill="#0066FF"/>
+  <text x="72" y="383" fill="#D4D4D8" font-family="ui-sans-serif, sans-serif" font-size="13">Agent orchestration layer</text>
+
+  <circle cx="336" cy="378" r="5" fill="#3F3F46"/>
+  <text x="352" y="383" fill="#A1A1AA" font-family="ui-sans-serif, sans-serif" font-size="13">Public beta access</text>
+
+  <circle cx="576" cy="378" r="5" fill="#3F3F46"/>
+  <text x="592" y="383" fill="#A1A1AA" font-family="ui-sans-serif, sans-serif" font-size="13">Billing and subscriptions</text>
+
+  <circle cx="816" cy="378" r="5" fill="#3F3F46"/>
+  <text x="832" y="383" fill="#A1A1AA" font-family="ui-sans-serif, sans-serif" font-size="13">Launch v1.0</text>
+</svg>

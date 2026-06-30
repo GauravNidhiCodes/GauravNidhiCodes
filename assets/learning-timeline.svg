@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" fill="none" role="img" aria-label="Current learning timeline">
+  <rect width="960" height="320" rx="16" fill="#0D0D0D" stroke="#262626" stroke-width="1"/>
+
+  <text x="40" y="44" fill="#71717A" font-family="ui-sans-serif, sans-serif" font-size="11" font-weight="600" letter-spacing="0.16em">CURRENT LEARNING</text>
+  <text x="40" y="76" fill="#FAFAFA" font-family="ui-sans-serif, sans-serif" font-size="22" font-weight="600">Deepening where it compounds</text>
+
+  <line x1="40" y1="120" x2="920" y2="120" stroke="#262626" stroke-width="2"/>
+
+  <circle cx="80" cy="120" r="8" fill="#0066FF" stroke="#0D0D0D" stroke-width="3"/>
+  <text x="80" y="152" text-anchor="middle" fill="#FAFAFA" font-family="ui-sans-serif, sans-serif" font-size="13" font-weight="600">LLMs</text>
+  <text x="80" y="172" text-anchor="middle" fill="#71717A" font-family="ui-sans-serif, sans-serif" font-size="11">Inference / fine-tuning</text>
+
+  <circle cx="220" cy="120" r="8" fill="#0066FF" stroke="#0D0D0D" stroke-width="3"/>
+  <text x="220" y="152" text-anchor="middle" fill="#FAFAFA" font-family="ui-sans-serif, sans-serif" font-size="13" font-weight="600">RAG</text>
+  <text x="220" y="172" text-anchor="middle" fill="#71717A" font-family="ui-sans-serif, sans-serif" font-size="11">Hybrid retrieval</text>
+
+  <circle cx="360" cy="120" r="8" fill="#0066FF" stroke="#0D0D0D" stroke-width="3"/>
+  <text x="360" y="152" text-anchor="middle" fill="#FAFAFA" font-family="ui-sans-serif, sans-serif" font-size="13" font-weight="600">Vector DBs</text>
+  <text x="360" y="172" text-anchor="middle" fill="#71717A" font-family="ui-sans-serif, sans-serif" font-size="11">Pinecone / pgvector</text>
+
+  <circle cx="500" cy="120" r="8" fill="#3F3F46" stroke="#0D0D0D" stroke-width="3"/>
+  <text x="500" y="152" text-anchor="middle" fill="#D4D4D8" font-family="ui-sans-serif, sans-serif" font-size="13" font-weight="600">MCP</text>
+  <text x="500" y="172" text-anchor="middle" fill="#71717A" font-family="ui-sans-serif, sans-serif" font-size="11">Tool protocols</text>
+
+  <circle cx="640" cy="120" r="8" fill="#3F3F46" stroke="#0D0D0D" stroke-width="3"/>
+  <text x="640" y="152" text-anchor="middle" fill="#D4D4D8" font-family="ui-sans-serif, sans-serif" font-size="13" font-weight="600">Agent Frameworks</text>
+  <text x="640" y="172" text-anchor="middle" fill="#71717A" font-family="ui-sans-serif, sans-serif" font-size="11">LangGraph / custom</text>
+
+  <circle cx="780" cy="120" r="8" fill="#3F3F46" stroke="#0D0D0D" stroke-width="3"/>
+  <text x="780" y="152" text-anchor="middle" fill="#D4D4D8" font-family="ui-sans-serif, sans-serif" font-size="13" font-weight="600">Kubernetes</text>
+  <text x="780" y="172" text-anchor="middle" fill="#71717A" font-family="ui-sans-serif, sans-serif" font-size="11">Production ops</text>
+
+  <circle cx="920" cy="120" r="8" fill="#3F3F46" stroke="#0D0D0D" stroke-width="3"/>
+  <text x="920" y="152" text-anchor="middle" fill="#D4D4D8" font-family="ui-sans-serif, sans-serif" font-size="13" font-weight="600">System Design</text>
+  <text x="920" y="172" text-anchor="middle" fill="#71717A" font-family="ui-sans-serif, sans-serif" font-size="11">Distributed systems</text>
+
+  <circle cx="40" cy="248" r="5" fill="#0066FF"/>
+  <text x="54" y="252" fill="#A1A1AA" font-family="ui-sans-serif, sans-serif" font-size="12">Active focus</text>
+  <circle cx="160" cy="248" r="5" fill="#3F3F46"/>
+  <text x="174" y="252" fill="#A1A1AA" font-family="ui-sans-serif, sans-serif" font-size="12">In rotation</text>
+
+  <text x="40" y="292" fill="#52525B" font-family="ui-sans-serif, sans-serif" font-size="12">I learn in public - notes, experiments, and breakdowns shared as I go.</text>
+</svg>

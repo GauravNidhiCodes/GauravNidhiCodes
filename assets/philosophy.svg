@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 200" fill="none" role="img" aria-label="Development philosophy">
+  <rect width="960" height="200" rx="16" fill="#0A0A0A" stroke="#262626" stroke-width="1"/>
+
+  <text x="480" y="56" text-anchor="middle" fill="#FAFAFA" font-family="ui-sans-serif, system-ui, sans-serif" font-size="36" font-weight="600" letter-spacing="-0.02em">
+    Build. Ship. Improve. Repeat.
+  </text>
+
+  <line x1="200" y1="80" x2="760" y2="80" stroke="#262626" stroke-width="1"/>
+
+  <text x="480" y="118" text-anchor="middle" fill="#A1A1AA" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15">
+    Solve real problems. Ship small, learn fast, iterate with intent.
+  </text>
+  <text x="480" y="146" text-anchor="middle" fill="#71717A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">
+    No clones. No resume-driven development. Products that earn trust through craft.
+  </text>
+
+  <!-- animated underline -->
+  <rect x="380" y="168" width="200" height="2" rx="1" fill="#0066FF" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
