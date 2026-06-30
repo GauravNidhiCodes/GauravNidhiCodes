@@ -16,11 +16,13 @@ AI Engineering &nbsp;•&nbsp; Full Stack &nbsp;•&nbsp; Building Atlas AI &nbs
 
 ### About
 
-I'm an AI Engineer and Full-Stack Developer. Most of my time goes into **Atlas AI** — an automation platform I'm building from the ground up — along with the usual work around LLMs, RAG, and agent orchestration.
+I'm at the start of my Computer Science path, figuring things out in public as I go. What keeps me here isn't a checklist of technologies — it's the work itself: taking an idea, writing the code, watching it fail somewhere unexpected, and making it a little better the next time.
 
-I like working across the stack: designing the backend, wiring up the AI layer, and making sure the frontend actually feels good to use. I'm less interested in demos that never ship, and more in systems that hold up once real users show up.
+**Atlas AI** is the project I'm betting on long-term. It's an automation platform I'm building piece by piece — backend, frontend, and the AI layer together. Through it, I'm learning LLMs, agents, RAG, and modern web development the way that actually sticks: by shipping, breaking, and fixing real features instead of finishing another tutorial series.
 
-Outside of product work, I **learn in public** and contribute to open source when there's something concrete to fix or improve.
+I'm early. I know that. I don't have years of production war stories yet, and I won't pretend otherwise. What I do have is a clear direction, a product I'm committed to, and the habit of showing up to build even when I'm not sure of the answer yet.
+
+That's what this GitHub is — not a finished portfolio, but a log of someone getting better at engineering by making things that matter.
 
 <br>
 
