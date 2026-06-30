@@ -70,21 +70,17 @@ If you're working on agents, RAG, or automation — happy to collaborate or revi
 
 ### Connect
 
-<p align="left">
-  <a href="https://gauravnidhi.dev" title="Website">
-    <img src="https://api.iconify.design/mdi:web.svg?color=%230066FF" alt="Website" width="26" height="26" />
+<p align="center">
+  <a href="https://github.com/GauravNidhiCodes" title="GitHub">
+    <img src="https://api.iconify.design/simple-icons:github.svg?color=%23f0f6fc" alt="GitHub" width="28" height="28" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/gauravnidhi" title="LinkedIn">
-    <img src="https://api.iconify.design/mdi:linkedin.svg?color=%230066FF" alt="LinkedIn" width="26" height="26" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gaurav-nidhi-b0420a391/" title="LinkedIn">
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23f0f6fc" alt="LinkedIn" width="28" height="28" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/gauravnidhi" title="Twitter">
-    <img src="https://api.iconify.design/ri:twitter-x-fill.svg?color=%230066FF" alt="Twitter" width="26" height="26" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:hello@gauravnidhi.dev" title="Email">
-    <img src="https://api.iconify.design/mdi:gmail.svg?color=%230066FF" alt="Email" width="26" height="26" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/_jesse_pinkman09" title="Instagram">
+    <img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23f0f6fc" alt="Instagram" width="28" height="28" />
   </a>
 </p>
 
