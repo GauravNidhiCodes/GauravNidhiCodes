@@ -10,6 +10,12 @@ AI Engineering &nbsp;•&nbsp; Full Stack &nbsp;•&nbsp; Building Atlas AI &nbs
 
 <br>
 
+<p align="center">
+  <img src="./assets/profile-hero.png" alt="Gaurav Nidhi" width="320" />
+</p>
+
+<br>
+
 ---
 
 <br>
