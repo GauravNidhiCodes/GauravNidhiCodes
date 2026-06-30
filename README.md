@@ -70,7 +70,23 @@ If you're working on agents, RAG, or automation — happy to collaborate or revi
 
 ### Connect
 
-[gauravnidhi.dev](https://gauravnidhi.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/gauravnidhi) &nbsp;·&nbsp; [Twitter](https://twitter.com/gauravnidhi) &nbsp;·&nbsp; [hello@gauravnidhi.dev](mailto:hello@gauravnidhi.dev)
+<p align="left">
+  <a href="https://gauravnidhi.dev" title="Website">
+    <img src="https://api.iconify.design/mdi:web.svg?color=%230066FF" alt="Website" width="26" height="26" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/gauravnidhi" title="LinkedIn">
+    <img src="https://api.iconify.design/mdi:linkedin.svg?color=%230066FF" alt="LinkedIn" width="26" height="26" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/gauravnidhi" title="Twitter">
+    <img src="https://api.iconify.design/ri:twitter-x-fill.svg?color=%230066FF" alt="Twitter" width="26" height="26" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:hello@gauravnidhi.dev" title="Email">
+    <img src="https://api.iconify.design/mdi:gmail.svg?color=%230066FF" alt="Email" width="26" height="26" />
+  </a>
+</p>
 
 <br>
 
