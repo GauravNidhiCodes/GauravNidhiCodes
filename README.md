@@ -4,7 +4,7 @@
 
 # Gaurav Nidhi
 
-AI Engineering &nbsp;•&nbsp; Full Stack &nbsp;•&nbsp; Building Atlas AI &nbsp;•&nbsp; Open Source &nbsp;•&nbsp; Learning in Public
+B.Tech (CSE) | AI Developer | React.js | Node.js | FastAPI | AI Automation | RAG | LLM Workflows | Exploring GenAI
 
 </div>
 
