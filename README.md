@@ -11,7 +11,7 @@ AI Engineering &nbsp;•&nbsp; Full Stack &nbsp;•&nbsp; Building Atlas AI &nbs
 <br>
 
 <p align="center">
-  <img src="./assets/hero-4k.svg" alt="Gaurav Nidhi 4K premium hero" width="100%" />
+  <img src="./assets/profile-hero.png" alt="Gaurav Nidhi" width="320" />
 </p>
 
 <br>
@@ -29,26 +29,6 @@ I'm at the start of my Computer Science path, figuring things out in public as I
 I'm early. I know that. I don't have years of production war stories yet, and I won't pretend otherwise. What I do have is a clear direction, a product I'm committed to, and the habit of showing up to build even when I'm not sure of the answer yet.
 
 That's what this GitHub is — not a finished portfolio, but a log of someone getting better at engineering by making things that matter.
-
-<br>
-
----
-
-<br>
-
-### Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GauravNidhiCodes&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GauravNidhiCodes&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GauravNidhiCodes&theme=github_dark" alt="Gaurav Nidhi contribution activity graph" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <sub>Consistency over intensity. I ship every week.</sub>
-</p>
 
 <br>
 
