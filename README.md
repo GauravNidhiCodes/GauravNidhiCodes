@@ -20,15 +20,9 @@ AI Engineering &nbsp;•&nbsp; Full Stack &nbsp;•&nbsp; Building Atlas AI &nbs
 
 <br>
 
-### About
+### What I'm into
 
-I'm at the start of my Computer Science path, figuring things out in public as I go. What keeps me here isn't a checklist of technologies — it's the work itself: taking an idea, writing the code, watching it fail somewhere unexpected, and making it a little better the next time.
-
-**Atlas AI** is the project I'm betting on long-term. It's an automation platform I'm building piece by piece — backend, frontend, and the AI layer together. Through it, I'm learning LLMs, agents, RAG, and modern web development the way that actually sticks: by shipping, breaking, and fixing real features instead of finishing another tutorial series.
-
-I'm early. I know that. I don't have years of production war stories yet, and I won't pretend otherwise. What I do have is a clear direction, a product I'm committed to, and the habit of showing up to build even when I'm not sure of the answer yet.
-
-That's what this GitHub is — not a finished portfolio, but a log of someone getting better at engineering by making things that matter.
+I'm at the beginning of my Computer Science journey, learning by building and figuring things out as I go. I'm exploring LLMs, AI agents, RAG, backend, frontend, APIs, databases and modern web development by actually building things, breaking them and figuring out how to make them better. I'm still early, but I know what I want to learn and I'm enjoying the process of getting better at it. This GitHub is just a place to document that journey and the things I build along the way.
 
 <br>
 
@@ -36,15 +30,6 @@ That's what this GitHub is — not a finished portfolio, but a log of someone ge
 
 <br>
 
-### Currently building
-
-**[Atlas AI](https://github.com/GauravNidhiCodes/atlas-ai)** — intelligent automation for teams. Multi-agent workflows, context-aware retrieval, real-time triggers. Still in beta, still iterating.
-
-Stack on most days: Next.js, TypeScript, Python, FastAPI, PostgreSQL, Redis, and whatever LLM API makes sense for the problem.
-
-[Repository](https://github.com/GauravNidhiCodes/atlas-ai) &nbsp;·&nbsp; [Live demo](https://atlas-ai.app) &nbsp;·&nbsp; [Docs](https://docs.atlas-ai.app)
-
-<br>
 
 ---
 
