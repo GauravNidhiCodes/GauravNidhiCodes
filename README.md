@@ -31,7 +31,10 @@ I'm at the beginning of my Computer Science journey, learning by building and fi
 ### Tech Stack
 
 <p align="center">
-  <img src="./assets/tech-stack-row.svg" alt="Tech stack icons" width="100%" />
+  <picture>
+    <source media="(max-width: 860px)" srcset="./assets/tech-stack-cards-mobile.svg" />
+    <img src="./assets/tech-stack-cards.svg" alt="Tech stack cards" width="100%" />
+  </picture>
 </p>
 
 <br>
