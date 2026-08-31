@@ -26,14 +26,12 @@ I'm at the beginning of my Computer Science journey, learning by building and fi
 
 <br>
 
----
-
 <br>
 
 ### Tech Stack
 
 <p align="center">
-  <img src="./assets/tech-stack-row.svg" alt="Tech stack: React.js, Next.js, JavaScript, TypeScript, Node.js, FastAPI, Python, MongoDB, PostgreSQL, Docker, Kubernetes, Git, GitHub, Linux, LangChain, LLMs, RAG, AI Agents, AI Automation" width="100%" />
+  <img src="./assets/tech-stack-row.svg" alt="Tech stack icons" width="100%" />
 </p>
 
 <br>
