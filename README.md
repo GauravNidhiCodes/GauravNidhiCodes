@@ -11,7 +11,7 @@ AI Engineering &nbsp;•&nbsp; Full Stack &nbsp;•&nbsp; Building Atlas AI &nbs
 <br>
 
 <p align="center">
-  <img src="./assets/profile-hero.png" alt="Gaurav Nidhi" width="320" />
+  <img src="./assets/hero-4k.svg" alt="Gaurav Nidhi 4K premium hero" width="100%" />
 </p>
 
 <br>
@@ -36,11 +36,19 @@ That's what this GitHub is — not a finished portfolio, but a log of someone ge
 
 <br>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=GauravNidhiCodes&bg_color=0d1117&color=0066FF&line=0066FF&point=FFFFFF&area=true&hide_border=true&custom_title=Gaurav+Nidhi's+Contribution+Graph"
-  alt="Gaurav Nidhi's contribution graph"
-  width="100%"
-/>
+### Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GauravNidhiCodes&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GauravNidhiCodes&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GauravNidhiCodes&theme=github_dark" alt="Gaurav Nidhi contribution activity graph" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Consistency over intensity. I ship every week.</sub>
+</p>
 
 <br>
 
